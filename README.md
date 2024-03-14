@@ -8,4 +8,5 @@ Worm Up, is built in Unity and incorporates the Nuitrack SDK and Astra S 3D came
 
 Click the links to check out our [poster](assets/BME%20Group%206%20-%20Poster.pdf) and [report](assets/BME%20Group%206%20-Final%20Report%20(submitted%20via%20email%20after).pdf)!
 
+## Poster
 <img src="assets/PosterJPEG.jpg"></image>
